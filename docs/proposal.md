@@ -91,13 +91,24 @@ maps to ensure high-quality visualization - a key requirement in the challenge.
 ---
 
 ## Solution  
-[Paste the full “Solution” section here, as you provided.]  
+Our solution relies on visualization and forecasting of NASA Air and Weather data to assist our community, especially farmers, patients, people living in industrial zones, and researchers. The application will ask the user upon signing up about the existence of any of the aforementioned conditions. Depending on their choice, a customized dashboard will appear to the user.
+For farmers, the dashboard will alert them about the possibility of acid rain either from confirmed forecasts or from the application AI forecasting feature. The dashboard will also display useful predictions like when it will rain, if acid-rain related gases (e.g SO2) have increased lately, and other related metrics.
+For patients, the dashboard will display parameters as air quality index and the amount of particulate matter in the air. This will be accompanied by alerts if either metric exceeds a specific threshold and advice including when to use their inhaler. The dashboard will also alert them about potential increases in any of the respiratory-system-harmful-parameters using the AI forecasting system.
+For residents of industrial zones, the dashboard will monitor the concentration of industrial waste such as NO2, CO, and other gasses. The dashboard will show an alarm if any of those gasses exceeds regulatory standards and assist them on reporting to authorities and taking actions to keep their health safe.
+For general people, the dashboard will show a combination of particulate matter, UV index, and other useful parameters in general to assist them in choosing where and when to travel outside. It will also display alarms if any abnormal values for such parameters were measured along with tips on how to stay safe.
+The rest of the application will show historic trends of parameters with time. Users will be able to select their parameter of interest and display its historical trends, view insights about the graph, and use our AI system to generate a forecast of such parameters. The application will also contain an interactive map with the ability for users to display a heatmap of the concentration of gasses and particulate matter on that map. The map will be available both in flattened 2D format for easier country-based visualization and in 3D globe format for continental-based visualization. Furthermore, the colors of parameter values will be selected such that users gain an intuitive understanding of parameter severity based on red and green colorization.
 
+The steps necessary to implement this solution are comprehensively outlined in our Methodology section, covering everything from data acquisition and AI model development to frontend design and cloud deployment. We’re also certain that these solutions align with the requirements as they cover many key aspects such as integrating diverse data sources from satellite and ground station sources, as well as comparing their data to ensure proper validation, reliability, and accuracy. Beyond our diversity in datasets, we’re also focused on generating forecasts, giving out proactive alerts, and a user-centered design.
 ---
 
 ## Value Proposition  
-[Paste the full “Value Proposition” section here.]  
+Our implementation and ideas are quite distinctive from other normal forecasting websites or weather apps. This is backed up by our literature review section, which shows how other published apps are missing key features that we’re addressing. By focusing on generating accurate forecasts from more than one dataset and origin, we’re ensuring that our users can anticipate and prepare for air quality risks.
 
+The core strength of our solution lies in our unique and intuitive design, which we believe will make our WebApp a top contender. Our leading priority was to focus on the needs of our user groups (e.g., farmers, patients, researchers) and to directly address each of their distinguished pain points.
+
+We are also concentrating on the clarity and simplicity we want to offer. This is based on the fact that not everyone can understand pure weather parameters or AQI’s, which made us transform the complex scientific data into a representation that can be understood easily by any of our target groups. We perform this by using intuitive color schemes, simple language, and an easily navigated website.
+
+Our app doesn’t only forecast or navigate data; rather, it focuses deeply on alerting users, which makes their safety our number one priority. Our data visualizations are also one of many features that give our users a perfected experience, which includes historic trend charts, parameter forecasting charts, and interactive 2D and 3D visualization maps.
 ---
 
 ## Role of Team Members  
@@ -112,7 +123,7 @@ maps to ensure high-quality visualization - a key requirement in the challenge.
 
 ## Workflow Strategy  
 Data exploration and problem analysis were the first steps in our workflow. Together, we gathered and 
-explored every dataset that was available, including NASA TEMPO and ground-based measurements. 
+explored every available dataset, including NASA TEMPO and ground-based measurements. 
 We viewed and accessed several parameters from those datasets and ensured to build our solution 
 ideas based on them. In addition, we looked into current solutions, like websites and apps, evaluated 
 their benefits and drawbacks, and considered how users might better understand and utilize data. All  
