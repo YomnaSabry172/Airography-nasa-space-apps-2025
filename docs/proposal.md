@@ -147,26 +147,39 @@ AI-driven forecasting, multi-source integration, and an easy-to-use, intuitive d
 1- S.-Y. Eom et al., “Health effects of environmental pollution in population living near industrial 
 complex areas in Korea,” Environmental Health and Toxicology, vol. 33, no. 1, p. e2018004, 
 Jan. 2018, doi: 10.5620/eht.e2018004. 
+
 2- A. I. Tiotiu et al., “Impact of air pollution on asthma outcomes,” International Journal of 
 Environmental Research and Public Health, vol. 17, no. 17, p. 6212, Aug. 2020, doi: 
 10.3390/ijerph17176212. 
+
 3- The World Air Quality Index project, “World’s Air Pollution: Real-time Air Quality Index,” 
 waqi.info. https://waqi.info/ 
+
 4- Plume Labs, “Plume Labs: Be empowered against air pollution,” Plume Labs. 
 https://plumelabs.com/en/ 
+
 5- “AirNow.gov.” https://www.airnow.gov/ 
+
 6- “OpenAQ,” OpenAQ. https://openaq.org/ 
+
 7- “ASP.NET Core, an open-source web development framework | .NET,” Microsoft. 
 https://dotnet.microsoft.com/en-us/apps/aspnet 
+
 8- “Tropospheric emissions: Monitoring pollution | NASA Earthdata,” NASA Earthdata, Nov. 08, 
 2024. https://www.earthdata.nasa.gov/data/instruments/tempo 
+
 9- “NASA Pandora Project.” https://pandora.gsfc.nasa.gov/ 
+
 10- A. Paszke et al., “PyTorch: An Imperative Style, High-Performance Deep Learning Library,” 
 arXiv (Cornell University), Jan. 2019, doi: 10.48550/arxiv.1912.01703 
+
 11- The pandas development team. (2025). pandas-dev/pandas: Pandas (v2.3.2). Zenodo. 
 https://doi.org/10.5281/zenodo.16918803 
+
 12- “Home | react-map-gl.” https://visgl.github.io/react-map-gl/ 
+
 13- “React charts,” Simple, https://react-charts.tanstack.com/Immersi
+
 ---
 
 ## Team Name and Members  
