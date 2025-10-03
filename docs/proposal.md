@@ -146,11 +146,11 @@ AI-driven forecasting, multi-source integration, and an easy-to-use, intuitive d
 ## Resources  
 1- S.-Y. Eom et al., “Health effects of environmental pollution in population living near industrial 
 complex areas in Korea,” Environmental Health and Toxicology, vol. 33, no. 1, p. e2018004, 
-Jan. 2018, doi: 10.5620/eht.e2018004. 
+Jan. 2018, doi: 10.5620/eht.e2018004  
 
 2- A. I. Tiotiu et al., “Impact of air pollution on asthma outcomes,” International Journal of 
 Environmental Research and Public Health, vol. 17, no. 17, p. 6212, Aug. 2020, doi: 
-10.3390/ijerph17176212. 
+10.3390/ijerph17176212 
 
 3- The World Air Quality Index project, “World’s Air Pollution: Real-time Air Quality Index,” 
 waqi.info. https://waqi.info/ 
