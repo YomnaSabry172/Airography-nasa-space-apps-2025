@@ -122,5 +122,5 @@ Airography provides four core capabilities:
 
 **Clone the repository**  
 ```bash
-git clone https://github.com/[your-username]/airography-nasa-space-apps-2025.git
+git clone https://github.com/YomnaSabry172/airography-nasa-space-apps-2025.git
 cd airography-nasa-space-apps-2025
